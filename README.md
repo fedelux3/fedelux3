@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=fedelux3&show_icons=true">
+
+## Hi there 👋
+## I'm Federico
+
+👨‍💻 Data Scientist 
+
+[![fede97luzzi@gmail.com](https://img.shields.io/static/v1?label=fede97luzzi@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=red)](mailto:fede97luzzi@gmail.it)
+
+🚧 **Last Contribution:** [deeprob-kit](https://github.com/deeprob-org/deeprob-kit)
 
 <!--
 **fedelux3/fedelux3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
